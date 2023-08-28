@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently an undergraduate Student in BS SE <br>👯 I’m a Full Stack Developer<br>🤝 I’m currently learning Devops in order become a cloud native developer as well as operation manager<br>🌱 I love to solve problems and did not deny anyone asks me any question<br>🌱Love to code , it does not make me bore.<br>💬 Ask me about anything related to Cloud and Development.<br>⚡ Fun fact: I love to be a part of sports.
+🔭 I’m currently an undergraduate Student in BS SE <br>👯 I’m a Full Stack Developer<br>🤝 I’m currently learning Devops in order to become a cloud native developer as well as operation manager<br>🌱 I love to solve problems and did not deny anyone asks me any question<br>🌱Love to code , it does not make me bore.<br>💬 Ask me about anything related to Cloud and Development.<br>⚡ Fun fact: I love to be a part of sports.
 
 
 ## 🌐 Socials:
