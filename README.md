@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Aman Nadeeem 👋
 # 💫 About Me:
-⚡ Software Engineer with 2+ years of experience, passionate about engineering and technology. I love solving real-world problems using the art of software engineering. <br>
+⚡ Software Engineer with 3+ years of experience, passionate about engineering and technology. I love solving real-world problems using the art of software engineering. <br>
 🔭 Software Engineer at a leading fintech company in Pakistan.<br>
 👯 Backend Developer specializing in Java, Spring Boot, distributed systems, and scalable architectures.<br>
 🤝 Currently exploring system design, microservices, and AI to build high-performance solutions.<br>
